@@ -16,4 +16,4 @@ I’m passionate about making sense of complex data, building tools that solve r
 
 - **[RoofMaps](#)** - coming soon, top secret for now ;)
 - Deepening my understanding of:
-- Artificial Intelligence & Machine Lear
+    - Artificial Intelligence & Machine Learning
