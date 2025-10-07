@@ -1,6 +1,7 @@
 # Owen Winecoff
 
 > Senior Data Analyst Intern · Xcel Energy
+> 
 > Senior - B.S. Computer Science · University of St. Thomas (MN)
 
 ---
