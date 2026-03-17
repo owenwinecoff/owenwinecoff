@@ -4,6 +4,8 @@
 
 **B.S. Computer Science · University of St. Thomas (MN)**
 
+
+
 ## Hello, my name is Owen!
 
 I'm a Senior at the University of St. Thomas (MN) and currently a Data Analyst Intern at Xcel Energy.
