@@ -1,20 +1,19 @@
 # Owen Winecoff
 
-> Senior Data Analyst Intern · Xcel Energy
-> 
-> B.S. Computer Science · University of St. Thomas (MN)
+**Senior Data Analyst Intern · Xcel Energy**
 
----
+**B.S. Computer Science · University of St. Thomas (MN)**
 
-### Hello, my name is Owen!
+Hello, my name is Owen!
 
-I’m a **Senior at the University of St. Thomas (MN)** and currently a **Data Analyst Intern at Xcel Energy**.  
-I’m passionate about making sense of complex data, building tools that solve real-world problems, and continuously learning new technologies.
+I'm a Senior at the University of St. Thomas (MN) and currently a Data Analyst Intern at Xcel Energy.
+I'm passionate about making sense of complex data, building tools that solve real-world problems, and continuously learning new technologies.
 
----
+## What I'm Working On
 
-### What I’m Working On
-
-- **[RoofMaps](#)** - coming soon, top secret for now ;)
+- **[HomeAware](https://owenwinecoff.github.io/HomeAware/)** — a hail storm visualization platform built on NOAA SPC data, founded out of Winecoff Construction
+- **RoofMaps** — coming soon, top secret for now ;)
 - Deepening my understanding of:
     - Artificial Intelligence & Machine Learning
+    - Geospatial data systems
+    - Production software architecture
