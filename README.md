@@ -12,7 +12,6 @@ I'm passionate about making sense of complex data, building tools that solve rea
 ## What I'm Working On
 
 - **[HomeAware](https://owenwinecoff.github.io/HomeAware/)** — a hail storm visualization platform built on NOAA SPC data, founded out of Winecoff Construction
-- **RoofMaps** — coming soon, top secret for now ;)
 - Deepening my understanding of:
     - Artificial Intelligence & Machine Learning
     - Geospatial data systems
